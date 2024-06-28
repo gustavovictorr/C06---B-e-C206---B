@@ -1,0 +1,4 @@
+carro,Fiat Uno,15000
+moto,Honda CG 150,8000
+carro,Chevrolet Onix,45000
+moto,Yamaha YBR 125,7500
